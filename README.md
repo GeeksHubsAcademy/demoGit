@@ -1,6 +1,4 @@
-# demoGit probando esto
-
-esto es otra cosa
+# demo Git Pruebas didacticas!
 
 
 repo para practicar git
