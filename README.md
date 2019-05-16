@@ -1,4 +1,4 @@
-# demoGit Alberto D Sosa cambio
+# demo Git Pruebas didacticas!
 
 
 repo para practicar git
