@@ -1,6 +1,8 @@
-# demoGitss
+# demo Git Pruebas didacticas!
 
 
 repo para practicar git
 
-hola mundo
+
+
+kjhsadlkj
