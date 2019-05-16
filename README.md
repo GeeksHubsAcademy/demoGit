@@ -1,4 +1,8 @@
-# demoGit pruba h1
+# demo Git Pruebas didacticas!
 
 
-repo pruebas
+repo para practicar git
+
+
+
+kjhsadlkj
