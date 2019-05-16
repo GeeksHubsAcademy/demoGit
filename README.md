@@ -1,6 +1,8 @@
-#   wtf!
+# demo Git Pruebas didacticas!
 
 
-asdsa
-asd
-sa
+repo para practicar git
+
+
+
+kjhsadlkj
