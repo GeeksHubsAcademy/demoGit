@@ -1,4 +1,4 @@
 # demoGit pruebas
 
 
-repo para practicar git
+repo pruebas
